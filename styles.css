@@ -1,0 +1,60 @@
+ body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+     background-image :url("https://tse4.mm.bing.net/th?id=OIP.goX2yhTSu3YdLIk8kdt0CwHaG1&pid=Api&P=0&h=180"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header div.head{
+    background-color:aliceblue; 
+    text-align: right;
+    padding-right:20px;
+    font-size: larger; 
+    font-family:Arial, Helvetica, sans-serif;
+    border: 10px solid brown;
+    border-radius: 10px;
+   
+}
+
+img{
+    margin-right:800px;
+   
+}  
+
+
+#page{
+    color:purple;
+    text-align: center;
+    padding-right:50px ;
+    padding-top: 10px;
+    background-color: black;
+    
+   
+}
+
+p{
+    text-align: center;
+}
+div.loginp{
+    
+    color: black;
+    padding-left:20px;
+    padding-bottom:10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:larger;
+    border-radius: 10px;
+   
+} 
+
+h6{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.footer{
+    background-color: grey;
+    text-align: center;
+    
+}
